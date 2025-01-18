@@ -4,8 +4,6 @@
 # Sales/Customer/Product Analysis
 In this ‘Data Analysis’ project, we’ll analyze `AdventureWorks`, an online retailer's raw sales data, and draw meaningful insights.
 
-<img src="https://github.com/sssingh/sales-customer-product-analysis-powerbi/blob/main/images/title.png?raw=true" width="1000" height="800" />
-
 ## Features
 ⚡Microsoft SQL Server / SQL / T-SQL [For building the datasource]  
 ⚡PowerBI Desktop [For building the PowerBI dashboard/report]  
