@@ -1,8 +1,7 @@
 # sales-performance-and-customer-insights-dashboard
-[![Open In Power Bi](https://img.shields.io/badge/open_in_power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiNDE5NDEyMWUtY2NiMi00MzRiLTljZmYtYmZlNWQzOTBkMDgzIiwidCI6ImFlZDI3MWNkLTYzOTgtNDllZi1hOWNmLTQ4NDIyMTAxZTE0ZSIsImMiOjEwfQ%3D%3D)
-
-# Sales/Customer/Product Analysis
 In this ‘Data Analysis’ project, we’ll analyze `AdventureWorks`, an online retailer's raw sales data, and draw meaningful insights.
+
+[![Open In Power Bi](https://img.shields.io/badge/open_in_power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiNDE5NDEyMWUtY2NiMi00MzRiLTljZmYtYmZlNWQzOTBkMDgzIiwidCI6ImFlZDI3MWNkLTYzOTgtNDllZi1hOWNmLTQ4NDIyMTAxZTE0ZSIsImMiOjEwfQ%3D%3D)
 
 ## Features
 ⚡Microsoft SQL Server / SQL / T-SQL [For building the datasource]  
