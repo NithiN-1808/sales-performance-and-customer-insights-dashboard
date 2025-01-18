@@ -17,10 +17,6 @@ In this ‘Data Analysis’ project, we’ll analyze `AdventureWorks`, an online
 - [Dataset](#dataset)
 - [Solution Approach](#solution-approach)
 - [How To Use](#how-to-use)
-- [License](#license)
-- [Credits](#credits)
-- [Get in touch](#get-in-touch)
-
 
 ## Introduction
 
